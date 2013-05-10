@@ -1,6 +1,6 @@
 # Cake Browserify
 
-Example Cakefile to watch CoffeeScript files and to [browserify](https://github.com/substack/node-browserify) them automatically.
+Example Cakefile to watch CoffeeScript files and to [browserify](https://github.com/substack/node-browserify) them automatically including notifications whenever a file changes.
 
 ## Usage
 
