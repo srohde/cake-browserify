@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "engines": {
+    "node": "0.6.10",
+    "npm": ">=1.0.0"
+    },
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "browserify":">=2",
+    "growl": "1.7.0",
+    "coffeeify": "0.4.0"
+  }
+}
